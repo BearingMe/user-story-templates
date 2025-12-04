@@ -4,7 +4,7 @@
 ### Descrição (opcional)
 Como [usuário/cliente], eu quero [ação/desejo], para que [benefício/valor].
 
-### Critério(s) de Aceitação
+### Critérios de Aceitação
 - [ ] Critério 1
 - [ ] Critério 2
 - [ ] Critério 3
